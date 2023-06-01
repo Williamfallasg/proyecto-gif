@@ -4,6 +4,7 @@ import Head from 'next/head';
 import SearchBar from "@/components/search-bar/SearchBar"; 
 import { GifList } from '@/components/gif-list/GifList';
 
+
 export default function Home() {
   return (
     <>
